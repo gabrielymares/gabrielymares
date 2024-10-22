@@ -19,7 +19,7 @@
   
   ##
  <div> 
-   https://www.linkedin.com/in/gabriely-santos-10b529324/
+   h
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:rafaelrfe@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href= "https://www.instagram.com/httpsmares/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -39,12 +39,3 @@
 
 
 
- ### TROPHIES
- 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DocenteDevRafael&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
- <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/DocenteDevRafael/count.svg" />
- </p>
