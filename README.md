@@ -1,6 +1,5 @@
 # Olá, eu sou a Gabriely!
 - 👨🏿‍🏫 Atualmente sou estudante no Senac DF
-- 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, WordPress, PHP, Java, Python e Banco de Dados
 - 📽️ Procuro colaborar no desenvolvimento de projetos
   
 
